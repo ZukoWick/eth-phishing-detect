@@ -19,9 +19,13 @@
     "launchpad.ethereum.org"
   ],
   "whitelist": [
+    "nfinit.com",
     "aubtu.biz",
     "audius.party",
     "aulus.org",
+    "flarum.ir",
+    "openseas.com",
+    "openmha.org",
     "cactus.cards",
     "flarum.it",
     "infinity.irish",
@@ -32,6 +36,7 @@
     "meta-musk.com",
     "metapass.world",
     "opensig.org",
+    "openspv.com",
     "opena.tv",
     "opener.pl",
     "open-es.com",
@@ -44,9 +49,12 @@
     "open.ua.edu",
     "dinitz.cz",
     "opengear.com",
+    "openteam.community",
     "openipa.org",
     "opinsta.com",
     "opensc.org",
+    "opensyr.com",
+    "openset.com",
     "opensteak.com",
     "openscan.eu",
     "affinity.locus",
@@ -58,6 +66,7 @@
     "open-sec.com",
     "odense.dk",
     "spense.no",
+    "metamsp.com",
     "factus.io",
     "openme.com",
     "opendei.eu",
@@ -848,9 +857,23 @@
     "lifinity.io",
     "metadash.app",
     "openkey.dev",
-    "openseal.ch"
+    "openseal.ch",
+    "metamarc.io"
   ],
   "blacklist": [
+    "unlockinglocation.buzz",
+    "wallettconnect.co",
+    "io-ledge.com",
+    "amazon.tokenpre.sale",
+    "tokenpre.sale",
+    "the-guardian.news",
+    "alpacafninance.com",
+    "idapps-tokens.com",
+    "crypto.e-access.host",
+    "mainnet-validator.org",
+    "uniswop-uni.com",
+    "validate-collab.land",
+    "dappsauthsmartconnect.com",
     "roll.collab.vote",
     "collab.vote",
     "collaboratiion.net",
@@ -13800,6 +13823,7 @@
     "bioswap.finance",
     "ff9.io",
     "safemoon-dividend.com",
-    "sfar.io"
+    "sfar.io",
+    "optimism.trade"
   ]
 }
